@@ -1,0 +1,5 @@
+{
+  "name": "Namoz Vaqtlari",
+  "description": "O'zbekiston shaharlari uchun namoz vaqtlari (Telegram Mini App)",
+  "requestFramePermissions": ["geolocation"]
+}
